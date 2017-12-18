@@ -2,7 +2,7 @@
 
 ### Клонирование репозитория
 
-    git clone git@gitlab.abr-daemon.ru:abr_git/pinguem-bot.git public_html
+    git clone https://github.com/AdmAlexus/pinguem-bot public_html
 
 ### Установка Yii2
 
